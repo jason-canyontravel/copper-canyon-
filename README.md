@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Canyon Travel is Copper Canyon's Premier Ecotourism Adventure Trip
 
 You can use the [editor on GitHub](https://github.com/jason-canyontravel/copper-canyon-/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
